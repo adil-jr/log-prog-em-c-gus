@@ -1,0 +1,25 @@
+*
+!/**/
+!*.*
+!Makefile
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de biblioteca
+*.a
+*.so
+*.lib
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Core dumps
+core
