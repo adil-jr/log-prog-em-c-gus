@@ -1,0 +1,5 @@
+1;X-Burger;15.90
+2;X-Bacon;18.50
+3;Coca-Cola 350ml;5.00
+4;Batata Frita;12.00
+5;Milkshake de Morango;10.50
