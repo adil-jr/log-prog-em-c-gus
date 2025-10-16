@@ -16,6 +16,7 @@ O repositório está organizado em pastas, cada uma correspondendo a uma lista d
 - `lista-8-de-exercicios/`
 - `lista-9-de-exercicios/`
 - `lista-10-de-exercicios/`
+- `lista-11-exemplos-algoritmos-orde-recur/`
 
 
 Dentro de cada pasta, você encontrará os arquivos `.c` com a solução para cada um dos problemas propostos.
